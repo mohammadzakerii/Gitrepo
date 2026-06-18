@@ -3,6 +3,6 @@ this is new line
 
 the second line to learn git stash
 
-the third li
+the third line
 
 
