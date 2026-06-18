@@ -3,5 +3,8 @@ this is new line
 
 the second line to learn git stash
 
+the third line
+
+the forth line
 
 
