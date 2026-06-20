@@ -1,8 +1,15 @@
 
+<<<<<<< HEAD
 this is new line
 
 the second line to learn git stash
+<<<<<<< HEAD
 
 the third line
 
 
+=======
+=======
+this is new line
+>>>>>>> 33c6cca7aafc365e975e1f30ec6db6a20841930b
+>>>>>>> parent of f494790 (resolve merge conflict)
