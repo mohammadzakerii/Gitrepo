@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 this is new line
 
 the second line of which branch? you choose it
@@ -7,6 +7,6 @@ dfsdfsf
 123456
 
 undo massage
-=======
+
 this is new line
->>>>>>> 33c6cca7aafc365e975e1f30ec6db6a20841930b
+
